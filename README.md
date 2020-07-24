@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="./content/hello-there.gif">
+	<img src="https://github.com/thiagocbechara/thiagocbechara/blob/master/content/hello-there.gif">
 </div>
 
 ## About me :mortar_board:
