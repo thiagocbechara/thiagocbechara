@@ -5,12 +5,11 @@
 </div>
 
 ## About me :mortar_board:
-I'm a Senior Software Engineer at Avalara, with 7+ years of experience.
+I'm a Senior Software Engineer at Avalara, with 8+ years of experience.
 
 ## What I know :computer:
 - **Backend Development**
 	- C# ❤️
-	- Node.js
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
