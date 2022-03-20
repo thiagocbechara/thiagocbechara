@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-I'm a Senior Software Engineer at Avalara, with 8+ years of experience.
+I'm a Senior Software Engineer at Avalara, with 10+ years of experience.
 
 ## What I know :computer:
 - **Backend Development**
